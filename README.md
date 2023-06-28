@@ -4,7 +4,7 @@
 
 - 🌱 Estudando FullStack e programação de sistema
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viniorc&show_icons=true" />
   </a>
