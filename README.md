@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Estudando FullStack e programação de sistema
+- 🌱 Estudando Curso de ADS na Unifametro
 
 <div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
